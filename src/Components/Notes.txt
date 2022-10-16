@@ -1,0 +1,14 @@
+//Notes React Journal Office Hour 
+
+
+------To associate an input with a label-------
+
+        <label htmlFor="thought">Your Thoughts:</label>
+        <textarea cols="30" rows="10" name="thought"></textarea>
+
+//or 
+        <label>Your Thoughts:
+        <textarea cols="30" rows="10"></textarea>
+        </label>
+
+------------------------------------------------------------------
